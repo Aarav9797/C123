@@ -1,0 +1,15 @@
+#footer{
+    width: 100%;
+    position:fixed;
+    bottom:0;
+    text-align: center;
+    background-color: grey; 
+    color: white;
+}
+canvas{
+    background-color: gray;
+    border-color: black;
+    border-radius:15px ;
+    border-width: 5px;
+    border-style: solid;
+}
